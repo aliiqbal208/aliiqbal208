@@ -12,7 +12,7 @@ I'm a **Senior Software Engineer** with over **8 years of experience** architect
 I specialize in building **intelligent platforms**, **real-time data pipelines**, and **cloud-native architectures** using **Node.js**, **Go**, **Python**, and **React**.  
 Driven by curiosity and impact, I focus on delivering **production-grade AI systems** that merge innovation with reliability.
 
-- 🌍 Based in **Pakistan**  
+- 🌍 Based in **Pakistan 🇵🇰**   
 - 💼 **Senior Software Engineer & AI Systems Architect** experienced in designing scalable, high-performance products.  
 - 🚀 Built **15+ products** across diverse domains — from **enterprise AI platforms** to **real-time web systems**.  
 - ⚙️ Skilled in **Node.js**, **Go**, **Python**, **React**, **Next.js**, **AWS**, **GCP**, and **Vector Databases** (for semantic & RAG-based search).  
